@@ -1,2 +1,2 @@
 # MyAgedTeam.github.io
-MyAgedTeam.github.io repository [index]()
+Can you sponsor MyAgedTeam.github.io to upgrade it to a public repository...?
